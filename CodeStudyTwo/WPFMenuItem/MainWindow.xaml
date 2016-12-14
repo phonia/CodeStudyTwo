@@ -1,0 +1,40 @@
+﻿<Window x:Class="WPFMenuItem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <FrameworkElement.Resources>
+        <ControlTemplate x:Key="CheckedMenuItem" TargetType="{x:Type MenuItem}">
+            <Grid SnapsToDevicePixels="True">
+                <Rectangle x:Name="Bg" Fill="{TemplateBinding Background}"
+                           RadiusX="2" RadiusY="2"
+                           Stroke="{TemplateBinding BorderBrush}"
+                           StrokeThickness="1"></Rectangle>
+                <Rectangle x:Name="InnerBorder" Margin="1" RadiusX="2" RadiusY="2"></Rectangle>
+                <Grid x:Name="Right_bg">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MinWidth="24"></ColumnDefinition>
+                        <ColumnDefinition MinWidth="27"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid  Grid.Column="2" >
+                        <ContentPresenter x:Name="Content" 
+                                          ContentTemplate="{TemplateBinding HeaderTemplate}" 
+                                          Content="{TemplateBinding Header}" 
+                                          ContentStringFormat="{TemplateBinding HeaderStringFormat}" 
+                                          ContentSource="Header" 
+                                          Margin="{TemplateBinding Padding}" 
+                                          RecognizesAccessKey="True" 
+                                          SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </ControlTemplate>
+    </FrameworkElement.Resources>
+    <Grid>
+        <Menu>
+            <MenuItem Header="Menu">
+                <MenuItem Header="JUSTWE" Template="{StaticResource CheckedMenuItem}"></MenuItem>
+                <MenuItem Header="OWEE" Template="{StaticResource CheckedMenuItem}"></MenuItem>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

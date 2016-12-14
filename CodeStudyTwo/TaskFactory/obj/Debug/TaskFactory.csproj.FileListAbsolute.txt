@@ -1,0 +1,6 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\bin\Debug\TaskFactory.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\bin\Debug\TaskFactory.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\bin\Debug\TaskFactory.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\obj\Debug\TaskFactory.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\obj\Debug\TaskFactory.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskFactory\obj\Debug\TaskFactory.pdb

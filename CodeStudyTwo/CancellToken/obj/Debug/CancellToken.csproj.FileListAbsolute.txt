@@ -1,0 +1,6 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\bin\Debug\CancellToken.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\bin\Debug\CancellToken.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\bin\Debug\CancellToken.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\obj\Debug\CancellToken.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\obj\Debug\CancellToken.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\CancellToken\obj\Debug\CancellToken.pdb

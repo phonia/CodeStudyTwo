@@ -1,0 +1,6 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\bin\Debug\Parallel.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\bin\Debug\Parallel.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\bin\Debug\Parallel.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\obj\Debug\Parallel.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\Parallel\obj\Debug\Parallel.pdb

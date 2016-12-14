@@ -1,0 +1,8 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\bin\Debug\EapByTask.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\bin\Debug\EapByTask.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.Form1.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\EapByTask\obj\Debug\EapByTask.pdb

@@ -1,0 +1,6 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\bin\Debug\TaskDemo.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\bin\Debug\TaskDemo.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\bin\Debug\TaskDemo.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\obj\Debug\TaskDemo.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\TaskDemo\obj\Debug\TaskDemo.pdb

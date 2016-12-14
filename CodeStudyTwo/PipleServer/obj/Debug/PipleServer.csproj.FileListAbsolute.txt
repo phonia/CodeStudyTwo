@@ -1,0 +1,5 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipleServer\bin\Debug\PipleServer.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipleServer\bin\Debug\PipleServer.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipleServer\bin\Debug\PipleServer.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipleServer\obj\Debug\PipleServer.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipleServer\obj\Debug\PipleServer.pdb

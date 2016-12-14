@@ -1,0 +1,5 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipeClient\bin\Debug\PipeClient.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipeClient\bin\Debug\PipeClient.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipeClient\bin\Debug\PipeClient.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipeClient\obj\Debug\PipeClient.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PipeClient\obj\Debug\PipeClient.pdb
