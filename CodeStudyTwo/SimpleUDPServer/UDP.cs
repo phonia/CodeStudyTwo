@@ -31,9 +31,12 @@ namespace SimpleUDPServer
             {
                 UdpClient udpClient = (UdpClient)result.AsyncState;
                 IPEndPoint remoteIpEndPoint = new IPEndPoint(IPAddress.Any, 0);
+                //if (udpClient.Client.RemoteEndPoint != null)
+                //    MessageBox.Show(udpClient.Client.RemoteEndPoint.ToString());
                 byte[] bytes = udpClient.EndReceive(result, ref remoteIpEndPoint);
                 udpClient.BeginReceive(ReceviceCallBack, null);
                 MessageBox.Show(Encoding.UTF8.GetString(bytes));
+
             }
         }
 

@@ -1,6 +1,5 @@
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\bin\Debug\SimpleUDPServer.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\bin\Debug\SimpleUDPServer.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.csprojResolveAssemblyReference.cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.Form1.resources
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.Properties.Resources.resources
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.csproj.GenerateResource.Cache

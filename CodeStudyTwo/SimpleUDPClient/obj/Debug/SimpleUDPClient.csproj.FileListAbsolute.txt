@@ -1,0 +1,8 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\bin\Debug\SimpleUDPClient.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\bin\Debug\SimpleUDPClient.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.Form1.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.pdb
