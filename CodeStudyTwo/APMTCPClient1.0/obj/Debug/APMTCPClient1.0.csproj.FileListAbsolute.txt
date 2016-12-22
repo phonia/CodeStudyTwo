@@ -1,0 +1,4 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient1.0\bin\Debug\APMTCPClient1.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient1.0\bin\Debug\APMTCPClient1.0.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient1.0\obj\Debug\APMTCPClient1.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient1.0\obj\Debug\APMTCPClient1.0.pdb

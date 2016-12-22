@@ -1,0 +1,4 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPServer\bin\Debug\SimpleTCPServer.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPServer\bin\Debug\SimpleTCPServer.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPServer\obj\Debug\SimpleTCPServer.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPServer\obj\Debug\SimpleTCPServer.pdb

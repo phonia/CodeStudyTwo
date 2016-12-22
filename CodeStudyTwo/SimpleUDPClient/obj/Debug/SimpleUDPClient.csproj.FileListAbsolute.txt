@@ -6,3 +6,5 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.Prop
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.csproj.GenerateResource.Cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\obj\Debug\SimpleUDPClient.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\bin\Debug\NetHelper.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPClient\bin\Debug\NetHelper.pdb
