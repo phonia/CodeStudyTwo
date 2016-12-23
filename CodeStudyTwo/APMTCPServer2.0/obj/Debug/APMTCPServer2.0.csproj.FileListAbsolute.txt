@@ -1,0 +1,8 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2.0.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2._0.Form1.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2._0.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2.0.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\bin\Debug\APMTCPServer2.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\bin\Debug\APMTCPServer2.0.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer2.0\obj\Debug\APMTCPServer2.0.pdb
