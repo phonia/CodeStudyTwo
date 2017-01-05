@@ -1,0 +1,7 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\bin\Debug\APMTCPClient2.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\bin\Debug\APMTCPClient2.0.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2._0.Form1.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2._0.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.pdb

@@ -13,11 +13,11 @@ namespace APMTCPServer2._0
 
         private TcpListener             _Listener           = null;
 
-        public bool                    IsRunning   { get; private set; }
+        public bool                     IsRunning           { get; private set; }
 
-        public  int                     BufferSize  { get; private set; }
+        public  int                     BufferSize          { get; private set; }
 
-        public List<TCPClientState>     Clients     { get; private set; }
+        public List<TCPClientState>     Clients             { get; private set; }
 
         public Action<TCPClientState>   HandleReceviedMessageEvent;
 
@@ -47,7 +47,7 @@ namespace APMTCPServer2._0
             { }
         }
 
-        public void AccepetClientCallBack(IAsyncResult result)
+        protected void AccepetClientCallBack(IAsyncResult result)
         {
             try
             {
@@ -57,6 +57,7 @@ namespace APMTCPServer2._0
                 if (tcpClientState == null) throw new ArgumentNullException();
                 lock (_lockObject)
                 {
+                    if (Clients == null) Clients = new List<TCPClientState>();
                     if (!Clients.Contains(tcpClientState))
                         Clients.Add(tcpClientState);
                 }
@@ -74,7 +75,7 @@ namespace APMTCPServer2._0
             { }
         }
 
-        public void ReadDataCallBack(IAsyncResult result)
+        protected void ReadDataCallBack(IAsyncResult result)
         {
             try
             {
@@ -122,7 +123,7 @@ namespace APMTCPServer2._0
             }
         }
 
-        public void WriteDataCallBack(IAsyncResult result)
+        protected void WriteDataCallBack(IAsyncResult result)
         {
             try
             {
