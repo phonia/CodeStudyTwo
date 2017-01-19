@@ -13,6 +13,7 @@ namespace APMTCPClient2._0
         public Int32 BuffSize { private set; get; }
         public Action ClientConnectedEventHandle { get; set; }
         public Action<TCPClientState> ReceviceMsgEventHandle { get; set; }
+
         private TCPClientState _client = null;
         private bool IsConnected = false;
 

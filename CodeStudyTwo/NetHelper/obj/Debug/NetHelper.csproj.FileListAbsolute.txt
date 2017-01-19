@@ -2,3 +2,4 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\NetHelper\bin\Debug\NetHelper.dll
 E:\Code\CodeStudyTwo\CodeStudyTwo\NetHelper\bin\Debug\NetHelper.pdb
 E:\Code\CodeStudyTwo\CodeStudyTwo\NetHelper\obj\Debug\NetHelper.dll
 E:\Code\CodeStudyTwo\CodeStudyTwo\NetHelper\obj\Debug\NetHelper.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\NetHelper\obj\Debug\NetHelper.csprojResolveAssemblyReference.cache

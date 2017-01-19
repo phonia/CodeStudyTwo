@@ -5,3 +5,4 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2._0.Pro
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.csproj.GenerateResource.Cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPClient2.0\obj\Debug\APMTCPClient2.0.csprojResolveAssemblyReference.cache

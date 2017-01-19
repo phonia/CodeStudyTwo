@@ -1,5 +1,4 @@
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPClient\bin\Debug\SimpleTCPClient.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPClient\bin\Debug\SimpleTCPClient.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPClient\obj\Debug\SimpleTCPClient.csprojResolveAssemblyReference.cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPClient\obj\Debug\SimpleTCPClient.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleTCPClient\obj\Debug\SimpleTCPClient.pdb

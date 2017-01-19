@@ -21,6 +21,7 @@ namespace SimpleUDPServer
 
         private void button1_Click(object sender, EventArgs e)
         {
+            IPEndPoint pe = new IPEndPoint(IPAddress.Broadcast, 0);
             IPAddress[] ips = Dns.GetHostAddresses("");
             if (_udp == null)
                 _udp = new UDP(ips[ips.Length-1].ToString(), this.textBox1.Text,Show);

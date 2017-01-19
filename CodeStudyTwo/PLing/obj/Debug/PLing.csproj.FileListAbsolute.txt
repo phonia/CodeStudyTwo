@@ -1,1 +1,5 @@
 E:\Code\CodeStudyTwo\CodeStudyTwo\PLing\bin\Debug\PLing.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\PLing\bin\Debug\PLing.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PLing\bin\Debug\PLing.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\PLing\obj\Debug\PLing.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\PLing\obj\Debug\PLing.pdb

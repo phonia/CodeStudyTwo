@@ -2,4 +2,3 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer1.0\bin\Debug\APMTCPServer1.0.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer1.0\bin\Debug\APMTCPServer1.0.pdb
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer1.0\obj\Debug\APMTCPServer1.0.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer1.0\obj\Debug\APMTCPServer1.0.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\APMTCPServer1.0\obj\Debug\APMTCPServer1.0.csprojResolveAssemblyReference.cache

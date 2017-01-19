@@ -5,3 +5,4 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.Prop
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.csproj.GenerateResource.Cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\SimpleUDPServer\obj\Debug\SimpleUDPServer.csprojResolveAssemblyReference.cache

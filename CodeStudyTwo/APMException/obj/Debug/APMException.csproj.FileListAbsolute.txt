@@ -1,6 +1,5 @@
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\bin\Debug\APMException.exe.config
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\bin\Debug\APMException.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\bin\Debug\APMException.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\obj\Debug\APMException.csprojResolveAssemblyReference.cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\obj\Debug\APMException.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APMException\obj\Debug\APMException.pdb

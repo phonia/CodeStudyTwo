@@ -1,8 +1,5 @@
 E:\Code\CodeStudyTwo\CodeStudyTwo\APM\bin\Debug\APM.exe.config
 E:\Code\CodeStudyTwo\CodeStudyTwo\APM\bin\Debug\APM.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APM\bin\Debug\APM.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\APM\obj\Debug\APM.csprojResolveAssemblyReference.cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\APM\obj\Debug\APM.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\APM\obj\Debug\APM.pdb
-E:\Code\CodeStudyTwo\CodeStudyTwo\APM\bin\Debug\APM.exe.CodeAnalysisLog.xml
-E:\Code\CodeStudyTwo\CodeStudyTwo\APM\bin\Debug\APM.exe.lastcodeanalysissucceeded

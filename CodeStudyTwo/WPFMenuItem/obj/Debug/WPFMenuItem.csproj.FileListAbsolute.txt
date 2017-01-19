@@ -10,3 +10,5 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\WPFMenuItem.Properties.R
 E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\WPFMenuItem.csproj.GenerateResource.Cache
 E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\WPFMenuItem.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\WPFMenuItem.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\Left.baml
+E:\Code\CodeStudyTwo\CodeStudyTwo\WPFMenuItem\obj\Debug\Left.g.cs
