@@ -1,0 +1,4 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\ArrayResearch\bin\Debug\ArrayResearch.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ArrayResearch\bin\Debug\ArrayResearch.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\ArrayResearch\obj\Debug\ArrayResearch.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ArrayResearch\obj\Debug\ArrayResearch.pdb

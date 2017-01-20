@@ -1,0 +1,108 @@
+﻿<Window x:Class="DataGridWithCombobox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:core="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:DataGridWithCombobox"
+        xmlns:c="clr-namespace:System.Collections;assembly=mscorlib"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="MyEnum" MethodName="GetValues" ObjectType="{x:Type core:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type Type="local:Sex"></x:Type>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+        <!--此处为预置的静态资源 用于测试 不可删除-->
+        <!--<c:ArrayList x:Key="MyNationality">
+            <local:Nationality Ch="其他" En="Other" Id="99"></local:Nationality>
+        </c:ArrayList>-->
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="0" Name="PersonDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" Loaded="PersonDataGrid_Loaded">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="姓名" IsReadOnly="True" Binding="{Binding Path=Name, Mode=TwoWay,
+                    UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" MinWidth="50"></DataGridTextColumn>
+                <!--<DataGridTextColumn Header="性别" IsReadOnly="True" Binding="{Binding Path=Sex, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" MinWidth="50"></DataGridTextColumn>-->
+                <DataGridComboBoxColumn Header="性别" ItemsSource="{Binding Source={StaticResource ResourceKey=MyEnum}}"
+                                        SelectedItemBinding="{Binding Sex}" ></DataGridComboBoxColumn>
+                <!--<DataGridTextColumn Header="国籍" IsReadOnly="True" Binding="{Binding Path=Nationality, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" MinWidth="50"></DataGridTextColumn>-->
+                <!--<DataGridComboBoxColumn Header="国籍0" ItemsSource="{Binding Source={StaticResource ResourceKey=MyNationality}}" 
+                                        SelectedValueBinding="{Binding Path=Nationality.Id}" DisplayMemberPath="Ch" SelectedValuePath="Id" ></DataGridComboBoxColumn>-->
+                <DataGridComboBoxColumn Header="民族" ItemsSource="{Binding Source={StaticResource ResourceKey=MyNation}}" 
+                                        SelectedItemBinding="{Binding Path=Nation}" DisplayMemberPath="Name" ></DataGridComboBoxColumn>
+                <!--上述结构重 SelectedValueBinding 绑定的是Person 中的属性  SelectedValuePath和DisplayMemberPath指向MyNationality中的属性
+                如果使用item则valuePath失效 即可以根据其他字段来控制本本列显示-->
+                
+                <!--使用依赖属性绑定下拉框-->
+                <!---->
+                <DataGridComboBoxColumn Header="国籍">
+                    <DataGridComboBoxColumn.EditingElementStyle>
+                        <Style TargetType="ComboBox">
+                            <Setter Property="ItemsSource" Value="{Binding Path=MyNationality,RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}}"></Setter>
+                            <!--不能使用，重新选择后只修改整个对象的绑定属性 导致不可预知的结果 -->
+                            <!--<Setter Property="SelectedValue" Value="{Binding Path=Nationality.Id}"></Setter>
+                            <Setter Property="SelectedValuePath" Value="Id"></Setter>-->
+                            
+                            <Setter Property="SelectedItem" Value="{Binding Path=Nationality}"></Setter>
+                            <Setter Property="DisplayMemberPath" Value="Ch"></Setter>
+                        </Style>
+                    </DataGridComboBoxColumn.EditingElementStyle>                    
+                    <DataGridComboBoxColumn.ElementStyle>
+                        <Style TargetType="ComboBox">
+                            <Setter Property="ItemsSource" Value="{Binding Path=MyNationality,RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}}"></Setter>
+                            <!--不能使用，重新选择后只修改整个对象的绑定属性 导致不可预知的结果 -->
+                            <!--<Setter Property="SelectedValue" Value="{Binding Path=Nationality.Id}"></Setter>
+                            <Setter Property="SelectedValuePath" Value="Id"></Setter>-->
+                            
+                            <Setter Property="SelectedItem" Value="{Binding Path=Nationality}"></Setter>
+                            <Setter Property="DisplayMemberPath" Value="Ch"></Setter>
+                        </Style>
+                    </DataGridComboBoxColumn.ElementStyle>
+                </DataGridComboBoxColumn>
+
+                
+                
+                <!--最终解决方案 动态数据源-->
+                <!--采用列模板--> 
+                <!--采用DropDownOpened和DropDownClosed事件来筛选选项 其中前一个设置筛选条件 后一个取消筛选-->
+                <!--需要在后台修改数据 用于保持数据同步 否则只能改变对象实例中的绑定属性-->
+                <!---->
+                <DataGridTemplateColumn Header="城市">
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox IsEditable="False"
+                                      Loaded="ComboBox_Loaded"
+                                      DropDownOpened="ComboBox_DropDownOpened"
+                                      DropDownClosed="ComboBox_DropDownClosed"
+                                      SelectedValue="{Binding Path=City.Id}"
+                                      SelectedValuePath="Id"
+                                      DisplayMemberPath="Name"
+                                      ItemsSource="{Binding Path=MyCity, RelativeSource={RelativeSource AncestorType={x:Type Window},Mode=FindAncestor}}"></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock>
+                            <TextBlock.Text>
+                                <MultiBinding StringFormat="{}{1}">
+                                    <Binding Path="City.Id"></Binding>
+                                    <Binding Path="City.Name"></Binding>
+                                </MultiBinding>
+                            </TextBlock.Text>
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                
+                <!--如何让国籍与城市联动？-->
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="1">
+            <Button Name="Tt" Width="40" Click="Tt_Click">测试</Button>
+        </StackPanel>
+    </Grid>
+</Window>

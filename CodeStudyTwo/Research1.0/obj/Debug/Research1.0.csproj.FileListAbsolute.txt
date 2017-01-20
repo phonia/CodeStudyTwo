@@ -1,0 +1,4 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\Research1.0\bin\Debug\Research1.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\Research1.0\bin\Debug\Research1.0.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\Research1.0\obj\Debug\Research1.0.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\Research1.0\obj\Debug\Research1.0.pdb

@@ -1,0 +1,5 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMByTask\bin\Debug\APMByTask.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMByTask\bin\Debug\APMByTask.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMByTask\obj\Debug\APMByTask.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMByTask\obj\Debug\APMByTask.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\APMByTask\obj\Debug\APMByTask.pdb

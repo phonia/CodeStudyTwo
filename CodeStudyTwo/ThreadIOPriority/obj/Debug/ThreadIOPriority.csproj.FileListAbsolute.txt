@@ -1,0 +1,5 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\ThreadIOPriority\bin\Debug\ThreadIOPriority.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\ThreadIOPriority\bin\Debug\ThreadIOPriority.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ThreadIOPriority\bin\Debug\ThreadIOPriority.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\ThreadIOPriority\obj\Debug\ThreadIOPriority.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ThreadIOPriority\obj\Debug\ThreadIOPriority.pdb
