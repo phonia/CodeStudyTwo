@@ -1,0 +1,10 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\LazyLoading.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\LazyLoading.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\LazyLoading.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\EntityFramework.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\EntityFramework.SqlServer.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\EntityFramework.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\bin\Debug\EntityFramework.SqlServer.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\obj\Debug\LazyLoading.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\obj\Debug\LazyLoading.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\LazyLoading\obj\Debug\LazyLoading.pdb

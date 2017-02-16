@@ -127,7 +127,7 @@ namespace APMTCP3._0
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         #endregion
