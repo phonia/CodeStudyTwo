@@ -1,0 +1,5 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\ContructionTest\bin\Debug\ContructionTest.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ContructionTest\bin\Debug\ContructionTest.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\ContructionTest\obj\Debug\ContructionTest.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\ContructionTest\obj\Debug\ContructionTest.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\ContructionTest\obj\Debug\ContructionTest.pdb
