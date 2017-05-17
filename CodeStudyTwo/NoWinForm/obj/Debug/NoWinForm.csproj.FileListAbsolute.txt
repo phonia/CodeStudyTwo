@@ -1,0 +1,8 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\bin\Debug\NoWinForm.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\bin\Debug\NoWinForm.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\NoWinForm\obj\Debug\NoWinForm.Form1.resources

@@ -1,0 +1,13 @@
+﻿<Window x:Class="ReportTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
+        xmlns:local="clr-namespace:ReportTest"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <WindowsFormsHost>
+            <rv:ReportViewer x:Name="bookReportViewer"/>
+        </WindowsFormsHost>
+        <local:MaskLayer x:Name="maskLayer" Visibility="Collapsed"/>
+    </Grid>
+</Window>
