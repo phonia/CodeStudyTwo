@@ -1,0 +1,16 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\UnityIoc.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\UnityIoc.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\UnityIoc.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Unity.config
