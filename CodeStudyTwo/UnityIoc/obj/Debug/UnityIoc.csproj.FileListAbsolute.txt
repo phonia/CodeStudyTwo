@@ -14,3 +14,7 @@ E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.csprojResolveAssem
 E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.exe
 E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\obj\Debug\UnityIoc.pdb
 E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Unity.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Code\CodeStudyTwo\CodeStudyTwo\UnityIoc\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml

@@ -111,6 +111,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combobxo", "Combobxo\Combob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LableStringFormat", "LableStringFormat\LableStringFormat.csproj", "{36AA20CA-9E08-4772-8A56-D4824F43B8C8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{CF0DF697-002E-4853-8C62-E93D72BAA1AE}"
+	ProjectSection(SolutionItems) = preProject
+		Unity.2.1.505.2-Source-and-Symbols.zip = Unity.2.1.505.2-Source-and-Symbols.zip
+		Unity20.pdf = Unity20.pdf
+		Unity2xDocs_with_Interception.pdf = Unity2xDocs_with_Interception.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebGL", "WebGL", "{D3A94EBC-FA4A-42D2-829C-2C6C4CA1A630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGL1.0", "WebGL1.0\WebGL1.0.csproj", "{6EEA3804-8479-4340-A7CC-E58F87D75A3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +284,10 @@ Global
 		{36AA20CA-9E08-4772-8A56-D4824F43B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36AA20CA-9E08-4772-8A56-D4824F43B8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36AA20CA-9E08-4772-8A56-D4824F43B8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EEA3804-8479-4340-A7CC-E58F87D75A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEA3804-8479-4340-A7CC-E58F87D75A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEA3804-8479-4340-A7CC-E58F87D75A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEA3804-8479-4340-A7CC-E58F87D75A3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -317,5 +332,6 @@ Global
 		{8E1E437A-4E53-47F5-B85D-3AAA2FE9ED8D} = {42649E80-E090-405B-A518-FE913449A241}
 		{2E10CD8D-BE36-4E54-AE7A-D733113A087B} = {6353BA4D-0382-4767-97EA-1842E5EC486D}
 		{FAE49337-0C6A-47B1-B9C0-ACA6C6720585} = {3CCC03FD-6A39-4AA8-B3A8-D309E739F7E0}
+		{6EEA3804-8479-4340-A7CC-E58F87D75A3B} = {D3A94EBC-FA4A-42D2-829C-2C6C4CA1A630}
 	EndGlobalSection
 EndGlobal
