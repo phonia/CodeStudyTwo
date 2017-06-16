@@ -1,0 +1,13 @@
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\bin\Debug\DockPanelTest.exe.config
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\bin\Debug\DockPanelTest.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\bin\Debug\DockPanelTest.pdb
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.csprojResolveAssemblyReference.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\MainWindow.baml
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\MainWindow.g.cs
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\App.g.cs
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest_MarkupCompile.cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.g.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.Properties.Resources.resources
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.csproj.GenerateResource.Cache
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.exe
+E:\Code\CodeStudyTwo\CodeStudyTwo\DockPanelTest\obj\Debug\DockPanelTest.pdb

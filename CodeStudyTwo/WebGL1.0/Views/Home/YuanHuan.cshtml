@@ -71,12 +71,14 @@
             attStride[1] = 4;
 
             // トーラスの頂点データを生成
+            //生成坐标点集合、顶点颜色以及三角形顶点索引
             var torusData = torus(32, 32, 1.0, 2.0);
             var position = torusData[0];
             var color = torusData[1];
             var index = torusData[2];
 
             // VBOの生成
+            //生成顶点和颜色的vbo
             var pos_vbo = create_vbo(position);
             var col_vbo = create_vbo(color);
 
@@ -84,12 +86,15 @@
             set_attribute([pos_vbo, col_vbo], attLocation, attStride);
 
             // IBOの生成
+            //生成索引的ibo
             var ibo = create_ibo(index);
 
             // IBOをバインドして登録する
+            //绑定ibo
             gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, ibo);
 
             // uniformLocationの取得
+            //获取uniloacation
             var uniLocation = gl.getUniformLocation(prg, 'mvpMatrix');
 
             // minMatrix.js を用いた行列関連処理
